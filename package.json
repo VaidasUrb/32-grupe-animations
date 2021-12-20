@@ -1,7 +1,6 @@
 {
   "name": "32-grupe-animations",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "live-server --port=3000 --host=localhost",
@@ -12,5 +11,14 @@
   "license": "MIT",
   "devDependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaidasUrb/32-grupe-animations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VaidasUrb/32-grupe-animations/issues"
+  },
+  "homepage": "https://github.com/VaidasUrb/32-grupe-animations#readme",
+  "description": ""
 }
